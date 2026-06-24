@@ -60,13 +60,13 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 4: Product Mapping
 
-- [ ] Map modules to Compliance Bible sections.
-- [ ] Create quiz schema.
-- [ ] Create assessment schema.
-- [ ] Create learner progress schema.
-- [ ] Create AI tutor marking approach.
-- [ ] Create FM Control Hub integration plan.
-- [ ] Create Compliance Hub integration plan.
+- [x] Map modules to Compliance Bible sections.
+- [x] Create quiz schema.
+- [x] Create assessment schema.
+- [x] Create learner progress schema.
+- [x] Create AI tutor marking approach.
+- [x] Create FM Control Hub integration plan.
+- [x] Create Compliance Hub integration plan.
 
 ## Wave 4: Interview and Scenario Banks
 
@@ -93,6 +93,18 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Create RELEASE_NOTES.md.
 - [x] Create VERSION set to 0.1.0.
 - [x] Fix clear defects found during audit.
+
+## Wave 7: App Integration Planning
+
+- [x] Create APP_INTEGRATION_PLAN.md.
+- [x] Map modules to learner journeys.
+- [x] Define quiz and assessment schema.
+- [x] Define progress tracking fields.
+- [x] Define AI tutor behaviour.
+- [x] Define mobile study flow.
+- [x] Define Longleat interview prep mode.
+- [x] Define minimum viable integration for v0.2.0.
+- [x] Set next target version to 0.2.0 in ROADMAP.md.
 
 ## Task Completion Rule
 

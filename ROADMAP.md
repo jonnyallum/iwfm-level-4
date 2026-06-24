@@ -19,6 +19,22 @@ Completed:
 - 100-question Longleat interview bank.
 - 50-scenario operational scenario bank.
 - Navigation, glossary, tags and product-readiness pages.
+- App integration plan for learner journeys, assessments, AI tutor and Longleat interview prep.
+
+## Next Target Version
+
+Target: `0.2.0`
+
+The next release should prove that the academy can run as an app learning layer, not only a Markdown course.
+
+Required v0.2.0 outcomes:
+
+- Import modules into learner journeys.
+- Create quiz and scenario assessment objects.
+- Track learner progress by module, score, confidence and weak tags.
+- Connect AI tutor feedback to model answers and marking guides.
+- Create mobile study flow for daily lessons.
+- Create Longleat interview prep mode.
 
 ## Next Modules
 
@@ -49,6 +65,8 @@ Priority build:
 - Learner progress schema.
 - FM Control Hub integration plan.
 - Compliance Hub learning pathway mapping.
+- AI tutor behaviour implementation.
+- Mobile study flow implementation.
 
 ## Next Interview Layer
 
