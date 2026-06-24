@@ -13,9 +13,9 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 1: Core Course Modules
 
-- [ ] Course orientation.
-- [ ] Module 1: FM Principles.
-- [ ] Module 2: Risk Management.
+- [x] Course orientation.
+- [x] Module 1: FM Principles.
+- [x] Module 2: Risk Management.
 - [ ] Module 3: Health and Safety.
 - [ ] Module 4: Fire Safety.
 - [ ] Module 5: Water Hygiene.
