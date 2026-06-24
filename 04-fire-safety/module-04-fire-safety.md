@@ -1,5 +1,16 @@
 # Module 4: Fire Safety
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Module 4: Fire Safety"
+  rag_tags:
+    - module:fire-safety
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## Learning Outcomes
 
 By the end of this module, you should be able to:

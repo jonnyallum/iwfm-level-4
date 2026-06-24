@@ -1,5 +1,16 @@
 # Course Orientation
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Course Orientation"
+  rag_tags:
+    - module:orientation
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## What This Course Is
 
 This is a practical Level 4-style Facilities Management course designed for mobile study, interview preparation and real operational use.

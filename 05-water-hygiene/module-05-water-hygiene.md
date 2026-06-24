@@ -1,5 +1,16 @@
 # Module 5: Water Hygiene
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Module 5: Water Hygiene"
+  rag_tags:
+    - module:water-hygiene
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## Learning Outcomes
 
 By the end of this module, you should be able to:

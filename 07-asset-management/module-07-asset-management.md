@@ -1,5 +1,16 @@
 # Module 7: Asset Management
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Module 7: Asset Management"
+  rag_tags:
+    - module:asset-management
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## Learning Outcomes
 
 By the end of this module, you should be able to:

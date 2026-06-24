@@ -25,11 +25,15 @@ All notable changes to this repository will be recorded here.
 - Added master index, quick start, roadmap, glossary and tag taxonomy.
 - Added FM Control Hub usage and Longleat interview prep usage pages.
 - Added AI/RAG metadata block to the repository README.
+- Added Wave 6 quality audit, fix list, release notes and VERSION 0.1.0.
+- Added missing AI/RAG metadata blocks to early course modules.
+- Corrected README repository map for interview and scenario bank folders.
 - Updated TODO tracker to mark completed Wave 1 course items.
 - Updated TODO tracker to mark completed Wave 2 course modules.
 - Updated TODO tracker to mark completed Wave 3 course modules and simulation.
 - Updated TODO tracker to mark completed Wave 4 interview and scenario banks.
 - Updated TODO tracker to mark completed Wave 5 navigation and readiness items.
+- Updated TODO tracker to mark completed Wave 6 quality audit and release readiness items.
 
 ### Production Notes
 

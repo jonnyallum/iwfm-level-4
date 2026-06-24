@@ -1,5 +1,16 @@
 # Module 1: Facilities Management Principles
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Module 1: Facilities Management Principles"
+  rag_tags:
+    - module:fm-principles
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## Learning Outcomes
 
 By the end of this module, you should be able to:

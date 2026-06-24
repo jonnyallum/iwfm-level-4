@@ -85,6 +85,15 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Add FM Control Hub usage page.
 - [x] Add Longleat interview prep usage page.
 
+## Wave 6: Quality Audit and Release Readiness
+
+- [x] Audit duplicate content, generic sections, sources, links, naming, TODOs, schema, metadata, mobile length and Longleat relevance.
+- [x] Create QUALITY_AUDIT.md.
+- [x] Create FIX_LIST.md.
+- [x] Create RELEASE_NOTES.md.
+- [x] Create VERSION set to 0.1.0.
+- [x] Fix clear defects found during audit.
+
 ## Task Completion Rule
 
 Every completed task must be marked off here and pushed with the completed work. No silent progress. No ghost tasks. No pretend completion.

@@ -1,5 +1,16 @@
 # Module 3: Health & Safety Management
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: learning_content
+  title: "Module 3: Health & Safety Management"
+  rag_tags:
+    - module:health-safety
+    - audience:longleat-interview
+    - product:fm-control-hub
+```
+
 ## Learning Outcomes
 
 By the end of this module, you should be able to:
