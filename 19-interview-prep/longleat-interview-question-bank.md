@@ -1,5 +1,16 @@
 # Longleat Interview Question Bank
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: interview_question_bank
+  question_count: 100
+  rag_tags:
+    - audience:longleat-interview
+    - assessment:interview
+    - skill:interview-answer
+```
+
 ## Plain English Summary
 
 This bank contains 100 production interview questions for Longleat-style Facilities Management preparation. The questions focus on operational judgement, visitor safety, animal welfare interfaces, statutory compliance, contractor control, leadership and board-level communication.

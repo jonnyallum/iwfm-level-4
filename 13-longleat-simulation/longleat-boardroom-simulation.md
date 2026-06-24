@@ -1,5 +1,16 @@
 # Module 13: Longleat Boardroom Simulation
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: simulation_module
+  rag_tags:
+    - module:longleat-simulation
+    - audience:longleat-interview
+    - skill:board-communication
+    - skill:incident-command
+```
+
 ## Learning Outcomes
 
 By the end of this simulation, you should be able to:

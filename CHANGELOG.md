@@ -21,10 +21,15 @@ All notable changes to this repository will be recorded here.
 - Added Wave 3 Module 13: Longleat Boardroom Simulation.
 - Added Wave 4 Longleat interview question bank with 100 production questions.
 - Added Wave 4 FM operational scenario bank with 50 production scenarios.
+- Added Wave 5 navigation and product readiness layer.
+- Added master index, quick start, roadmap, glossary and tag taxonomy.
+- Added FM Control Hub usage and Longleat interview prep usage pages.
+- Added AI/RAG metadata block to the repository README.
 - Updated TODO tracker to mark completed Wave 1 course items.
 - Updated TODO tracker to mark completed Wave 2 course modules.
 - Updated TODO tracker to mark completed Wave 3 course modules and simulation.
 - Updated TODO tracker to mark completed Wave 4 interview and scenario banks.
+- Updated TODO tracker to mark completed Wave 5 navigation and readiness items.
 
 ### Production Notes
 

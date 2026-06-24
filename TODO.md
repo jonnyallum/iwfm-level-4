@@ -73,6 +73,18 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Build 100 Longleat interview questions.
 - [x] Build 50 FM operational scenarios.
 
+## Wave 5: Navigation and Product Readiness
+
+- [x] Add MASTER_INDEX.md.
+- [x] Add QUICK_START.md.
+- [x] Add ROADMAP.md.
+- [x] Add GLOSSARY.md.
+- [x] Add TAGS.md.
+- [x] Cross-link major sections.
+- [x] Add AI/RAG metadata blocks to key docs.
+- [x] Add FM Control Hub usage page.
+- [x] Add Longleat interview prep usage page.
+
 ## Task Completion Rule
 
 Every completed task must be marked off here and pushed with the completed work. No silent progress. No ghost tasks. No pretend completion.

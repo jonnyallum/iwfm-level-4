@@ -1,5 +1,16 @@
 # FM Operational Scenario Bank
 
+```yaml
+ai_metadata:
+  repo: iwfm-level-4
+  document_type: operational_scenario_bank
+  scenario_count: 50
+  rag_tags:
+    - assessment:scenario
+    - skill:incident-command
+    - product:fm-control-hub
+```
+
 ## Plain English Summary
 
 This bank contains 50 Facilities Management operational scenarios for Level 4-style learning, Longleat interview preparation and practical FM Control Hub training.
