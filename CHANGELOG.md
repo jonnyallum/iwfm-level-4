@@ -9,6 +9,10 @@ All notable changes to this repository will be recorded here.
 - Created production course roadmap.
 - Added README with mission, learning outcomes, module structure and product integration vision.
 - Added TODO tracker with completion rule.
+- Added Wave 1 course orientation.
+- Added Wave 1 Module 1: Facilities Management Principles.
+- Added Wave 1 Module 2: Risk Management.
+- Updated TODO tracker to mark completed Wave 1 course items.
 
 ### Production Notes
 
