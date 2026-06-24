@@ -19,14 +19,14 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Module 3: Health and Safety.
 - [x] Module 4: Fire Safety.
 - [x] Module 5: Water Hygiene.
-- [ ] Module 6: Building Systems.
-- [ ] Module 7: Asset Management.
-- [ ] Module 8: Contractor Management.
+- [x] Module 6: Building Systems.
+- [x] Module 7: Asset Management.
+- [x] Module 8: Contractor Management.
 - [ ] Module 9: Budgeting and Finance.
 - [ ] Module 10: Leadership and Communication.
 - [ ] Module 11: Strategic FM.
 - [ ] Module 12: Estate Management.
-- [ ] Module 13: Longleat Boardroom Simulation.
+- [x] Module 13: Longleat Boardroom Simulation.
 
 ## Phase 2: Workbook and Assessment
 
