@@ -12,7 +12,11 @@ All notable changes to this repository will be recorded here.
 - Added Wave 1 course orientation.
 - Added Wave 1 Module 1: Facilities Management Principles.
 - Added Wave 1 Module 2: Risk Management.
+- Added Wave 2 Module 3: Health & Safety Management.
+- Added Wave 2 Module 4: Fire Safety.
+- Added Wave 2 Module 5: Water Hygiene.
 - Updated TODO tracker to mark completed Wave 1 course items.
+- Updated TODO tracker to mark completed Wave 2 course modules.
 
 ### Production Notes
 

@@ -16,9 +16,9 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Course orientation.
 - [x] Module 1: FM Principles.
 - [x] Module 2: Risk Management.
-- [ ] Module 3: Health and Safety.
-- [ ] Module 4: Fire Safety.
-- [ ] Module 5: Water Hygiene.
+- [x] Module 3: Health and Safety.
+- [x] Module 4: Fire Safety.
+- [x] Module 5: Water Hygiene.
 - [ ] Module 6: Building Systems.
 - [ ] Module 7: Asset Management.
 - [ ] Module 8: Contractor Management.
