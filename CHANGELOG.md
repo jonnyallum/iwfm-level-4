@@ -19,9 +19,12 @@ All notable changes to this repository will be recorded here.
 - Added Wave 3 Module 7: Asset Management.
 - Added Wave 3 Module 8: Contractor Management.
 - Added Wave 3 Module 13: Longleat Boardroom Simulation.
+- Added Wave 4 Longleat interview question bank with 100 production questions.
+- Added Wave 4 FM operational scenario bank with 50 production scenarios.
 - Updated TODO tracker to mark completed Wave 1 course items.
 - Updated TODO tracker to mark completed Wave 2 course modules.
 - Updated TODO tracker to mark completed Wave 3 course modules and simulation.
+- Updated TODO tracker to mark completed Wave 4 interview and scenario banks.
 
 ### Production Notes
 

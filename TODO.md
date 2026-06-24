@@ -53,7 +53,7 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 - [ ] Split modules into phone-readable daily lessons.
 - [ ] Add flashcard bank.
-- [ ] Add interview answer bank.
+- [x] Add interview answer bank.
 - [ ] Add progress tracker.
 - [ ] Add 30-day study plan.
 - [ ] Add 7-day interview crash plan.
@@ -67,6 +67,11 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [ ] Create AI tutor marking approach.
 - [ ] Create FM Control Hub integration plan.
 - [ ] Create Compliance Hub integration plan.
+
+## Wave 4: Interview and Scenario Banks
+
+- [x] Build 100 Longleat interview questions.
+- [x] Build 50 FM operational scenarios.
 
 ## Task Completion Rule
 
