@@ -2,6 +2,55 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-06-30 (interview completion and study aids)
+
+### Added
+
+- Added `19-interview-prep/longleat-boardroom-roleplay-prompts.md`: six live pressure scenarios with in-character interviewer lines, press-harder follow-ups, "what good sounds like" notes and a reader scoring card.
+- Added `17-marking-guides/spoken-answer-rubric.md`: a six-dimension /24 rubric for spoken answers with bands, automatic caps, delivery tells and AI-tutor notes.
+- Added `21-flashcards/flashcard-bank.md`: phone-first recall cards for all twelve modules plus cross-cutting principles, tagged to modules.
+- Added `22-study-plans/30-day-study-plan.md`: a paced four-week route through the modules, workbook, mock exams and final assessment.
+- Added `22-study-plans/progress-tracker.md`: a self-assessment tracker with module, assessment and interview tables, a weak-tag watchlist, a readiness checklist and the suggested FM Control Hub progress fields.
+
+### Changed
+
+- Updated MASTER_INDEX.md with a Study Aids section and the new role-play and spoken-rubric links.
+- Updated README.md repository map with `21-flashcards/` and `22-study-plans/`.
+- Updated ROADMAP.md to mark the interview layer complete and add the mobile learning layer.
+- Updated TODO.md to mark the flashcard bank, progress tracker, 30-day plan, role-play prompts and spoken rubric complete.
+- Updated FIX_LIST.md with the 0.5.0 fixes.
+- Bumped VERSION to 0.5.0.
+
+## 2026-06-30 (interview layer)
+
+### Added
+
+- Added `19-interview-prep/7-day-longleat-crash-plan.md`: an intensive, standalone seven-day interview plan with three daily blocks (morning learn, commute drill, evening spoken practice) that uses the modules, workbook, mock exams, final assessment, interview/scenario banks and boardroom simulation, plus a night-before checklist.
+- Added `19-interview-prep/longleat-star-answer-bank.md`: worked STAR answers across eight Longleat themes, five core stories to prepare, a spoken-answer self-check and two opening answers.
+
+### Changed
+
+- Updated MASTER_INDEX.md to list the crash plan and STAR answer bank under practice banks.
+- Updated ROADMAP.md to mark the crash plan and STAR bank complete in the interview layer.
+- Updated TODO.md to mark the 7-day crash plan and STAR answer bank complete.
+- Bumped VERSION to 0.4.0.
+
+## 2026-06-30 (assessment layer)
+
+### Added
+
+- Added the workbook layer: `14-workbook/` with an index and a workbook file for each of Modules 1 to 12, every file holding knowledge/application/judgement questions, model answer points and per-module marking criteria.
+- Added `17-marking-guides/marking-guide.md`: a single course marking standard with scoring bands, four marking strands, automatic caps, red/green flags and AI-tutor rubric notes.
+- Added `16-mock-exams/`: an index plus Mock Exam 1 and Mock Exam 2, each a timed 90-minute, three-section paper with model answer pointers.
+- Added `18-final-assessment/final-assessment.md`: a 180-minute capstone across compliance, money/assets, leadership/strategy and an integrated peak-season scenario, with a result-record table.
+
+### Changed
+
+- Updated MASTER_INDEX.md with an Assessment section linking the workbook, mock exams, marking guide and final assessment.
+- Updated ROADMAP.md to mark the assessment layer complete and refocus next priorities on mobile polish and the product layer.
+- Updated TODO.md to mark all Phase 2 workbook and assessment items complete.
+- Bumped VERSION to 0.3.0.
+
 ## 2026-06-30
 
 ### Added

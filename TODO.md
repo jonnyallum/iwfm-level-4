@@ -30,33 +30,36 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 
 ## Phase 2: Workbook and Assessment
 
-- [ ] Create workbook structure.
-- [ ] Add Module 1 workbook questions.
-- [ ] Add Module 2 workbook questions.
-- [ ] Add Module 3 workbook questions.
-- [ ] Add Module 4 workbook questions.
-- [ ] Add Module 5 workbook questions.
-- [ ] Add Module 6 workbook questions.
-- [ ] Add Module 7 workbook questions.
-- [ ] Add Module 8 workbook questions.
-- [ ] Add Module 9 workbook questions.
-- [ ] Add Module 10 workbook questions.
-- [ ] Add Module 11 workbook questions.
-- [ ] Add Module 12 workbook questions.
-- [ ] Add model answers.
-- [ ] Add marking guide.
-- [ ] Add mock exam 1.
-- [ ] Add mock exam 2.
-- [ ] Add final assessment.
+- [x] Create workbook structure.
+- [x] Add Module 1 workbook questions.
+- [x] Add Module 2 workbook questions.
+- [x] Add Module 3 workbook questions.
+- [x] Add Module 4 workbook questions.
+- [x] Add Module 5 workbook questions.
+- [x] Add Module 6 workbook questions.
+- [x] Add Module 7 workbook questions.
+- [x] Add Module 8 workbook questions.
+- [x] Add Module 9 workbook questions.
+- [x] Add Module 10 workbook questions.
+- [x] Add Module 11 workbook questions.
+- [x] Add Module 12 workbook questions.
+- [x] Add model answers.
+- [x] Add marking guide.
+- [x] Add mock exam 1.
+- [x] Add mock exam 2.
+- [x] Add final assessment.
 
 ## Phase 3: Mobile Learning Polish
 
 - [ ] Split modules into phone-readable daily lessons.
-- [ ] Add flashcard bank.
+- [x] Add flashcard bank.
 - [x] Add interview answer bank.
-- [ ] Add progress tracker.
-- [ ] Add 30-day study plan.
-- [ ] Add 7-day interview crash plan.
+- [x] Add progress tracker.
+- [x] Add 30-day study plan.
+- [x] Add 7-day interview crash plan.
+- [x] Add STAR answer bank.
+- [x] Add boardroom role-play prompts.
+- [x] Add spoken-answer rubric.
 
 ## Phase 4: Product Mapping
 

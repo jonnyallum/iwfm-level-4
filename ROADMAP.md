@@ -38,18 +38,19 @@ Required v0.2.0 outcomes:
 
 ## Next Modules
 
-All twelve core modules are now complete. The next content priority is the assessment layer below.
+All twelve core modules are now complete.
 
-## Next Assessment Layer
+## Assessment Layer
 
-Priority build:
+Complete:
 
-- Workbook structure.
-- Module workbook questions.
-- Model answers.
-- Mock exams.
-- Final assessment.
-- AI tutor marking approach.
+- Workbook structure and per-module workbook questions (Modules 1 to 12).
+- Model answer points and per-module marking criteria.
+- Single course marking guide with bands, strands and AI-tutor rubric.
+- Mock exam 1 and mock exam 2 (timed, three-section format).
+- Final assessment (180-minute capstone with integrated scenario).
+
+The next content priority is mobile-learning polish (splitting long banks, study plans, flashcards) and the product layer below.
 
 ## Next Product Layer
 
@@ -63,11 +64,25 @@ Priority build:
 - AI tutor behaviour implementation.
 - Mobile study flow implementation.
 
-## Next Interview Layer
+## Interview Layer
 
-Priority build:
+Complete:
 
-- 7-day Longleat interview crash plan.
-- STAR answer bank.
-- Boardroom role-play prompts.
-- Marking rubric for spoken answers.
+- 7-day Longleat interview crash plan (intensive, uses modules, workbook, mock exams and final assessment).
+- STAR answer bank (eight Longleat themes plus five core stories and opening answers).
+- Boardroom role-play prompts (six pressure scenarios with press-harder follow-ups and reader scoring).
+- Spoken-answer rubric (six-dimension /24 scoring with automatic caps and AI-tutor notes).
+
+The interview layer is now complete.
+
+## Mobile Learning Layer
+
+Complete:
+
+- Flashcard bank (recall cards for all twelve modules plus cross-cutting principles, tagged to modules).
+- 30-day study plan (paced four-week route through modules, workbook, mocks and final assessment).
+- Progress tracker (self-assessment sheet and the progress fields for FM Control Hub).
+
+Remaining:
+
+- Split the long interview and scenario banks into phone-sized chunks.

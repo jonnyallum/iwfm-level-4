@@ -114,7 +114,9 @@ iwfm-level-4/
 ├── 17-marking-guides/
 ├── 18-final-assessment/
 ├── 19-interview-prep/
-└── 20-scenario-bank/
+├── 20-scenario-bank/
+├── 21-flashcards/
+└── 22-study-plans/
 ```
 
 Folders should only be created when they contain completed production material.
