@@ -56,6 +56,8 @@ This is the navigation layer for the IWFM Level 4 Equivalent FM Academy. Use it 
 ## Practice Banks
 
 - [Longleat interview question bank](19-interview-prep/longleat-interview-question-bank.md)
+- [7-day Longleat interview crash plan](19-interview-prep/7-day-longleat-crash-plan.md)
+- [Longleat STAR answer bank](19-interview-prep/longleat-star-answer-bank.md)
 - [FM operational scenario bank](20-scenario-bank/fm-operational-scenario-bank.md)
 
 ## Compliance Bible Cross-Links

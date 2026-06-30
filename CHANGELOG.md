@@ -2,6 +2,20 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-06-30 (interview layer)
+
+### Added
+
+- Added `19-interview-prep/7-day-longleat-crash-plan.md`: an intensive, standalone seven-day interview plan with three daily blocks (morning learn, commute drill, evening spoken practice) that uses the modules, workbook, mock exams, final assessment, interview/scenario banks and boardroom simulation, plus a night-before checklist.
+- Added `19-interview-prep/longleat-star-answer-bank.md`: worked STAR answers across eight Longleat themes, five core stories to prepare, a spoken-answer self-check and two opening answers.
+
+### Changed
+
+- Updated MASTER_INDEX.md to list the crash plan and STAR answer bank under practice banks.
+- Updated ROADMAP.md to mark the crash plan and STAR bank complete in the interview layer.
+- Updated TODO.md to mark the 7-day crash plan and STAR answer bank complete.
+- Bumped VERSION to 0.4.0.
+
 ## 2026-06-30 (assessment layer)
 
 ### Added

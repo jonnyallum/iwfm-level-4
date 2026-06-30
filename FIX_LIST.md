@@ -20,13 +20,20 @@ ai_metadata:
 
 - Built Modules 9 to 12 (Budgeting and Finance, Leadership and Communication, Strategic FM, Estate Management), completing the twelve-module core course.
 
+## Fixed in 0.3.0
+
+- Built the workbook and assessment layers: per-module workbook, marking guide, two mock exams and the final assessment.
+
+## Fixed in 0.4.0
+
+- Added the standalone 7-day Longleat interview crash plan and the STAR answer bank.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
-| High | Build workbook and assessment layers | Current learning content has scenarios and model answers, but no full workbook or final assessment. |
 | Medium | Split long practice banks into mobile-first chunks | Current bank files are comprehensive but long for phone reading. |
-| Medium | Add 7-day Longleat crash plan as a standalone file | Quick Start includes a path, but TODO still calls for a dedicated crash plan. |
+| Low | Add boardroom role-play prompts and a spoken-answer rubric | Crash plan and STAR bank exist; live role-play prompts would complete the interview layer. |
 | Low | Add automated link/metadata check script | Current audit used manual PowerShell checks. |
 
 ## Intentionally Not Fixed in This Pass

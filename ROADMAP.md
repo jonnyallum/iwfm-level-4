@@ -64,11 +64,14 @@ Priority build:
 - AI tutor behaviour implementation.
 - Mobile study flow implementation.
 
-## Next Interview Layer
+## Interview Layer
 
-Priority build:
+Complete:
 
-- 7-day Longleat interview crash plan.
-- STAR answer bank.
+- 7-day Longleat interview crash plan (intensive, uses modules, workbook, mock exams and final assessment).
+- STAR answer bank (eight Longleat themes plus five core stories and opening answers).
+
+Remaining:
+
 - Boardroom role-play prompts.
-- Marking rubric for spoken answers.
+- Marking rubric for spoken answers (currently covered by the shared marking guide; a spoken-specific rubric is still to build).

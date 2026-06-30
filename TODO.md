@@ -56,7 +56,8 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Add interview answer bank.
 - [ ] Add progress tracker.
 - [ ] Add 30-day study plan.
-- [ ] Add 7-day interview crash plan.
+- [x] Add 7-day interview crash plan.
+- [x] Add STAR answer bank.
 
 ## Phase 4: Product Mapping
 
