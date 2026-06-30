@@ -14,7 +14,7 @@ ai_metadata:
 Completed:
 
 - Course orientation.
-- Modules 1 to 8.
+- Modules 1 to 12 (full core course).
 - Module 13 Longleat Boardroom Simulation.
 - 100-question Longleat interview bank.
 - 50-scenario operational scenario bank.
@@ -38,12 +38,7 @@ Required v0.2.0 outcomes:
 
 ## Next Modules
 
-Priority modules:
-
-- Module 9: Budgeting and Finance.
-- Module 10: Leadership and Communication.
-- Module 11: Strategic FM.
-- Module 12: Estate Management.
+All twelve core modules are now complete. The next content priority is the assessment layer below.
 
 ## Next Assessment Layer
 

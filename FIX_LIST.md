@@ -16,11 +16,14 @@ ai_metadata:
 - Corrected README repository map to include `19-interview-prep` and `20-scenario-bank`.
 - Added `QUALITY_AUDIT.md`, `FIX_LIST.md`, `RELEASE_NOTES.md` and `VERSION`.
 
+## Fixed in 0.2.0
+
+- Built Modules 9 to 12 (Budgeting and Finance, Leadership and Communication, Strategic FM, Estate Management), completing the twelve-module core course.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
-| High | Build Modules 9 to 12 | Course is not complete without budgeting, leadership, strategic FM and estate management. |
 | High | Build workbook and assessment layers | Current learning content has scenarios and model answers, but no full workbook or final assessment. |
 | Medium | Split long practice banks into mobile-first chunks | Current bank files are comprehensive but long for phone reading. |
 | Medium | Add 7-day Longleat crash plan as a standalone file | Quick Start includes a path, but TODO still calls for a dedicated crash plan. |

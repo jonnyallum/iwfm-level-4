@@ -22,10 +22,10 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Module 6: Building Systems.
 - [x] Module 7: Asset Management.
 - [x] Module 8: Contractor Management.
-- [ ] Module 9: Budgeting and Finance.
-- [ ] Module 10: Leadership and Communication.
-- [ ] Module 11: Strategic FM.
-- [ ] Module 12: Estate Management.
+- [x] Module 9: Budgeting and Finance.
+- [x] Module 10: Leadership and Communication.
+- [x] Module 11: Strategic FM.
+- [x] Module 12: Estate Management.
 - [x] Module 13: Longleat Boardroom Simulation.
 
 ## Phase 2: Workbook and Assessment

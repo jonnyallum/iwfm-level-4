@@ -40,6 +40,10 @@ This is the navigation layer for the IWFM Level 4 Equivalent FM Academy. Use it 
 - [Module 6: Building Systems](06-building-systems/module-06-building-systems.md)
 - [Module 7: Asset Management](07-asset-management/module-07-asset-management.md)
 - [Module 8: Contractor Management](08-contractor-management/module-08-contractor-management.md)
+- [Module 9: Budgeting and Finance](09-budgeting-finance/module-09-budgeting-finance.md)
+- [Module 10: Leadership and Communication](10-leadership-communication/module-10-leadership-communication.md)
+- [Module 11: Strategic FM](11-strategic-fm/module-11-strategic-fm.md)
+- [Module 12: Estate Management](12-estate-management/module-12-estate-management.md)
 - [Module 13: Longleat Boardroom Simulation](13-longleat-simulation/longleat-boardroom-simulation.md)
 
 ## Practice Banks
