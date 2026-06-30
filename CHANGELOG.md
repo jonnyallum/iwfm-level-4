@@ -2,6 +2,22 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-06-30 (assessment layer)
+
+### Added
+
+- Added the workbook layer: `14-workbook/` with an index and a workbook file for each of Modules 1 to 12, every file holding knowledge/application/judgement questions, model answer points and per-module marking criteria.
+- Added `17-marking-guides/marking-guide.md`: a single course marking standard with scoring bands, four marking strands, automatic caps, red/green flags and AI-tutor rubric notes.
+- Added `16-mock-exams/`: an index plus Mock Exam 1 and Mock Exam 2, each a timed 90-minute, three-section paper with model answer pointers.
+- Added `18-final-assessment/final-assessment.md`: a 180-minute capstone across compliance, money/assets, leadership/strategy and an integrated peak-season scenario, with a result-record table.
+
+### Changed
+
+- Updated MASTER_INDEX.md with an Assessment section linking the workbook, mock exams, marking guide and final assessment.
+- Updated ROADMAP.md to mark the assessment layer complete and refocus next priorities on mobile polish and the product layer.
+- Updated TODO.md to mark all Phase 2 workbook and assessment items complete.
+- Bumped VERSION to 0.3.0.
+
 ## 2026-06-30
 
 ### Added

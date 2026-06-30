@@ -38,18 +38,19 @@ Required v0.2.0 outcomes:
 
 ## Next Modules
 
-All twelve core modules are now complete. The next content priority is the assessment layer below.
+All twelve core modules are now complete.
 
-## Next Assessment Layer
+## Assessment Layer
 
-Priority build:
+Complete:
 
-- Workbook structure.
-- Module workbook questions.
-- Model answers.
-- Mock exams.
-- Final assessment.
-- AI tutor marking approach.
+- Workbook structure and per-module workbook questions (Modules 1 to 12).
+- Model answer points and per-module marking criteria.
+- Single course marking guide with bands, strands and AI-tutor rubric.
+- Mock exam 1 and mock exam 2 (timed, three-section format).
+- Final assessment (180-minute capstone with integrated scenario).
+
+The next content priority is mobile-learning polish (splitting long banks, study plans, flashcards) and the product layer below.
 
 ## Next Product Layer
 

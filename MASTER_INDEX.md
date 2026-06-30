@@ -46,6 +46,13 @@ This is the navigation layer for the IWFM Level 4 Equivalent FM Academy. Use it 
 - [Module 12: Estate Management](12-estate-management/module-12-estate-management.md)
 - [Module 13: Longleat Boardroom Simulation](13-longleat-simulation/longleat-boardroom-simulation.md)
 
+## Assessment
+
+- [Workbook (questions, model points, marking criteria per module)](14-workbook/README.md)
+- [Mock exams](16-mock-exams/README.md)
+- [Marking guide](17-marking-guides/marking-guide.md)
+- [Final assessment](18-final-assessment/final-assessment.md)
+
 ## Practice Banks
 
 - [Longleat interview question bank](19-interview-prep/longleat-interview-question-bank.md)
