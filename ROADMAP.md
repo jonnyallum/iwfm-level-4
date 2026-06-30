@@ -70,8 +70,19 @@ Complete:
 
 - 7-day Longleat interview crash plan (intensive, uses modules, workbook, mock exams and final assessment).
 - STAR answer bank (eight Longleat themes plus five core stories and opening answers).
+- Boardroom role-play prompts (six pressure scenarios with press-harder follow-ups and reader scoring).
+- Spoken-answer rubric (six-dimension /24 scoring with automatic caps and AI-tutor notes).
+
+The interview layer is now complete.
+
+## Mobile Learning Layer
+
+Complete:
+
+- Flashcard bank (recall cards for all twelve modules plus cross-cutting principles, tagged to modules).
+- 30-day study plan (paced four-week route through modules, workbook, mocks and final assessment).
+- Progress tracker (self-assessment sheet and the progress fields for FM Control Hub).
 
 Remaining:
 
-- Boardroom role-play prompts.
-- Marking rubric for spoken answers (currently covered by the shared marking guide; a spoken-specific rubric is still to build).
+- Split the long interview and scenario banks into phone-sized chunks.

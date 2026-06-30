@@ -51,13 +51,21 @@ This is the navigation layer for the IWFM Level 4 Equivalent FM Academy. Use it 
 - [Workbook (questions, model points, marking criteria per module)](14-workbook/README.md)
 - [Mock exams](16-mock-exams/README.md)
 - [Marking guide](17-marking-guides/marking-guide.md)
+- [Spoken-answer rubric](17-marking-guides/spoken-answer-rubric.md)
 - [Final assessment](18-final-assessment/final-assessment.md)
+
+## Study Aids
+
+- [Flashcard bank](21-flashcards/flashcard-bank.md)
+- [30-day study plan](22-study-plans/30-day-study-plan.md)
+- [Progress tracker](22-study-plans/progress-tracker.md)
 
 ## Practice Banks
 
 - [Longleat interview question bank](19-interview-prep/longleat-interview-question-bank.md)
 - [7-day Longleat interview crash plan](19-interview-prep/7-day-longleat-crash-plan.md)
 - [Longleat STAR answer bank](19-interview-prep/longleat-star-answer-bank.md)
+- [Longleat boardroom role-play prompts](19-interview-prep/longleat-boardroom-roleplay-prompts.md)
 - [FM operational scenario bank](20-scenario-bank/fm-operational-scenario-bank.md)
 
 ## Compliance Bible Cross-Links

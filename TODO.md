@@ -52,12 +52,14 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 ## Phase 3: Mobile Learning Polish
 
 - [ ] Split modules into phone-readable daily lessons.
-- [ ] Add flashcard bank.
+- [x] Add flashcard bank.
 - [x] Add interview answer bank.
-- [ ] Add progress tracker.
-- [ ] Add 30-day study plan.
+- [x] Add progress tracker.
+- [x] Add 30-day study plan.
 - [x] Add 7-day interview crash plan.
 - [x] Add STAR answer bank.
+- [x] Add boardroom role-play prompts.
+- [x] Add spoken-answer rubric.
 
 ## Phase 4: Product Mapping
 
