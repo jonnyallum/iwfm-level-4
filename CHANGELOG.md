@@ -2,6 +2,23 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-06-30
+
+### Added
+
+- Added Module 9: Budgeting and Finance (opex/capex, defensible budgets, whole-life cost, variance and no-surprises forecasting).
+- Added Module 10: Leadership and Communication (leading mixed teams, communicating up and down, hard conversations, incident communication).
+- Added Module 11: Strategic FM (operational/tactical/strategic levels, business alignment, KPIs and data, lifecycle planning, in-house versus outsource).
+- Added Module 12: Estate Management (grounds, boundaries, drainage, heritage, multiple buildings and estate-wide risk).
+- Completed the full twelve-module core course (Modules 1 to 12 plus the Longleat simulation).
+
+### Changed
+
+- Updated MASTER_INDEX.md to list Modules 9 to 12.
+- Updated ROADMAP.md to show the core course as complete and refocus next content on the assessment layer.
+- Updated TODO.md to mark Modules 9 to 12 complete.
+- Bumped VERSION to 0.2.0.
+
 ## 2026-06-24
 
 ### Added
