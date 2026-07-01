@@ -85,4 +85,4 @@ Complete:
 
 Remaining:
 
-- Split the scenario bank and boardroom simulation into phone-sized chunks (the interview bank is done — ten themed sets under `19-interview-prep/question-bank/`).
+- Split the boardroom simulation into phone-sized chunks. The interview bank (ten sets under `19-interview-prep/question-bank/`) and the scenario bank (five sets under `20-scenario-bank/scenarios/`) are done.

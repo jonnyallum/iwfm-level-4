@@ -38,11 +38,15 @@ ai_metadata:
 - Split the 100-question interview bank into ten phone-sized themed sets and converted the main file into an index.
 - Refreshed RELEASE_NOTES.md (was stale at 0.1.0) to 0.6.0.
 
+## Fixed in 0.7.0
+
+- Split the 50-scenario operational scenario bank into five phone-sized themed sets and converted the main file into an index.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
-| Medium | Split the scenario bank and boardroom simulation into mobile-first chunks | The interview bank is split; these two long files remain. |
+| Medium | Split the boardroom simulation into mobile-first chunks | The interview and scenario banks are split; the boardroom simulation is the last long file. |
 | Low | Build the product layer schemas (quiz, assessment, progress) | Progress fields are sketched in the tracker; full schemas remain for FM Control Hub integration. |
 | Low | Add automated link/metadata check script | Current audit used manual PowerShell checks. |
 

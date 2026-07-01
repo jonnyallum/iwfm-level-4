@@ -2,6 +2,18 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-07-01 (scenario bank split)
+
+### Added
+
+- Added `20-scenario-bank/scenarios/` with five themed scenario sets (ten scenarios each) split out of the operational scenario bank for phone-first study: fire-and-water, asbestos-electrical-lifting, height-contractors-coshh, waste-estate-power and assets-evidence-board.
+
+### Changed
+
+- Converted `20-scenario-bank/fm-operational-scenario-bank.md` into a phone-first themed index that links to the five sets, preserving all inbound links and the scenario response structure; content is unchanged (50 scenarios verified).
+- Updated ROADMAP.md and FIX_LIST.md to record the scenario bank split, leaving only the boardroom simulation to split.
+- Bumped VERSION to 0.7.0.
+
 ## 2026-07-01 (mobile-first bank split)
 
 ### Added
