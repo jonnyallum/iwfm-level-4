@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://iwfm-level-4/schemas/module.schema.json",
+  "title": "Module",
+  "description": "A course module or capstone in the IWFM Level 4 FM Academy, mapped to its learner journey and content files.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "number", "title", "slug", "learner_journey", "content_path"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique id, e.g. 'module-09'."
+    },
+    "number": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 13,
+      "description": "Module number. 0 is course orientation; 13 is the Longleat boardroom simulation."
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title, e.g. 'Budgeting and Finance'."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "URL-safe slug, e.g. 'budgeting-finance'."
+    },
+    "learner_journey": {
+      "type": "string",
+      "enum": [
+        "onboarding",
+        "foundation",
+        "core-skill",
+        "compliance-foundation",
+        "life-safety",
+        "specialist-compliance",
+        "technical-fm",
+        "lifecycle-budget",
+        "contractor-control",
+        "leadership",
+        "strategy",
+        "estate",
+        "capstone"
+      ],
+      "description": "Learner journey classification from the app integration plan."
+    },
+    "content_path": {
+      "type": "string",
+      "description": "Repo-relative path to the module markdown file."
+    },
+    "workbook_path": {
+      "type": "string",
+      "description": "Repo-relative path to the matching workbook file, if any."
+    },
+    "learning_outcomes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Learning outcomes listed at the top of the module."
+    },
+    "lesson_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Number of phone lessons in the module."
+    },
+    "rag_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Retrieval tags, e.g. 'module:budgeting-finance'."
+    },
+    "compliance_bible_links": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Named Compliance Bible sections referenced by the module."
+    }
+  }
+}

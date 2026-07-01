@@ -52,17 +52,19 @@ Complete:
 
 The next content priority is mobile-learning polish (splitting long banks, study plans, flashcards) and the product layer below.
 
-## Next Product Layer
+## Product Layer
 
-Priority build:
+Complete:
 
-- Quiz schema.
-- Assessment schema.
-- Learner progress schema.
-- FM Control Hub integration plan.
-- Compliance Hub learning pathway mapping.
-- AI tutor behaviour implementation.
-- Mobile study flow implementation.
+- Formal JSON Schemas under `23-product-schemas/` for Module, AssessmentItem, LearnerAttempt, AiTutorFeedback and LearnerProgress, with worked examples that validate.
+- FM Control Hub integration plan and Compliance Hub mapping (see APP_INTEGRATION_PLAN.md).
+- AI tutor behaviour defined as a schema contract (AiTutorFeedback) plus the marking guide and spoken-answer rubric.
+
+Remaining:
+
+- Implement the schemas in FM Control Hub (import content, store attempts, serve progress).
+- Mobile study flow implementation in-app.
+- Split the boardroom simulation into phone-sized chunks (last long file).
 
 ## Interview Layer
 

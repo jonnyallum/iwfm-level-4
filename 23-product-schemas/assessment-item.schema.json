@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://iwfm-level-4/schemas/assessment-item.schema.json",
+  "title": "AssessmentItem",
+  "description": "A single practisable or gradable item: workbook question, quiz question, scenario, hard question, interview prompt, flashcard, mock-exam or final-assessment question. Unifies every question-like object in the academy.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "item_type", "prompt", "source_path"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique id, e.g. 'interview-q-045' or 'scenario-039'."
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "multiple_choice",
+        "short_answer",
+        "workbook_question",
+        "scenario",
+        "hard_question",
+        "interview_prompt",
+        "flashcard",
+        "mock_exam_question",
+        "final_assessment_question"
+      ],
+      "description": "Kind of item, driving how it is presented and marked."
+    },
+    "module_id": {
+      "type": "string",
+      "description": "Owning module id where applicable, e.g. 'module-05'."
+    },
+    "theme": {
+      "type": "string",
+      "enum": [
+        "fm-principles",
+        "risk-management",
+        "health-safety-risk",
+        "fire-safety",
+        "water-hygiene",
+        "asbestos-building-fabric",
+        "electrical-critical-systems",
+        "work-equipment-lifting-height",
+        "building-systems",
+        "asset-management-budget",
+        "contractor-management",
+        "budgeting-finance",
+        "leadership-board-communication",
+        "strategic-fm",
+        "estate-management",
+        "visitor-attraction-longleat",
+        "principles"
+      ],
+      "description": "Theme tag used for filtered practice and weak-tag routing."
+    },
+    "prompt": {
+      "type": "string",
+      "description": "The question or scenario prompt shown to the learner."
+    },
+    "options": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Answer options for multiple_choice items only."
+    },
+    "correct_answer": {
+      "type": "string",
+      "description": "Correct option or expected key answer, for auto-markable items."
+    },
+    "flip": {
+      "type": "string",
+      "description": "The reveal side for flashcard items."
+    },
+    "model_answer": {
+      "type": "string",
+      "description": "Model answer text where a full worked answer exists."
+    },
+    "marking_points": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Bullet points a strong answer must cover; the marking rubric input."
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["knowledge", "application", "judgement"],
+      "description": "Cognitive demand; judgement items carry the most marks at Level 4."
+    },
+    "marks": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Marks available, for mock-exam and final-assessment items."
+    },
+    "rag_tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "compliance_bible_links": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "source_path": {
+      "type": "string",
+      "description": "Repo-relative path to the file this item was imported from."
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "item_type": { "const": "multiple_choice" } } },
+      "then": { "required": ["options", "correct_answer"] }
+    },
+    {
+      "if": { "properties": { "item_type": { "const": "flashcard" } } },
+      "then": { "required": ["flip"] }
+    }
+  ]
+}

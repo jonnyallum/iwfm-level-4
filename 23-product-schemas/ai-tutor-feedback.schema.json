@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://iwfm-level-4/schemas/ai-tutor-feedback.schema.json",
+  "title": "AiTutorFeedback",
+  "description": "Structured output of the AI tutor marking a learner attempt against the module model answer and marking guide. Encodes the feedback format required by the marking guide and spoken-answer rubric.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "attempt_id", "band", "reason", "better_answer"],
+  "properties": {
+    "id": { "type": "string" },
+    "attempt_id": {
+      "type": "string",
+      "description": "LearnerAttempt this feedback marks."
+    },
+    "band": {
+      "type": "string",
+      "enum": [
+        "Distinction",
+        "Pass",
+        "Borderline",
+        "Not yet",
+        "Interview-ready",
+        "Nearly there",
+        "Developing"
+      ],
+      "description": "Awarded band; written items use the marking-guide set, spoken items the rubric set."
+    },
+    "reason": {
+      "type": "string",
+      "description": "One-line justification for the band."
+    },
+    "strongest_moment": {
+      "type": "string",
+      "description": "The single best part of the answer."
+    },
+    "most_useful_fix": {
+      "type": "string",
+      "description": "The one improvement that would most raise the mark."
+    },
+    "missing_elements": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "risk",
+          "affected-people",
+          "immediate-control",
+          "evidence",
+          "ownership",
+          "escalation",
+          "compliance-duty",
+          "whole-life-cost",
+          "no-surprises",
+          "review-prevention",
+          "longleat-context",
+          "decision"
+        ]
+      },
+      "description": "FM elements the answer missed, from the marking-guide green flags."
+    },
+    "weak_tag": {
+      "type": "string",
+      "description": "Theme tag to route revision to."
+    },
+    "cap_applied": {
+      "type": "boolean",
+      "description": "Whether an automatic cap was applied (safety traded, bluffed, reputation-reliant, no decision)."
+    },
+    "better_answer": {
+      "type": "string",
+      "description": "A model answer the learner can practise aloud."
+    },
+    "compliance_bible_links": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}

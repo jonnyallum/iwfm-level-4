@@ -42,12 +42,16 @@ ai_metadata:
 
 - Split the 50-scenario operational scenario bank into five phone-sized themed sets and converted the main file into an index.
 
+## Fixed in 0.8.0
+
+- Built the product-layer JSON Schemas (Module, AssessmentItem, LearnerAttempt, AiTutorFeedback, LearnerProgress) with validating examples under `23-product-schemas/`.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
 | Medium | Split the boardroom simulation into mobile-first chunks | The interview and scenario banks are split; the boardroom simulation is the last long file. |
-| Low | Build the product layer schemas (quiz, assessment, progress) | Progress fields are sketched in the tracker; full schemas remain for FM Control Hub integration. |
+| Low | Implement the product schemas in FM Control Hub | Schemas and examples exist in-repo; in-app import/storage/serving is application work. |
 | Low | Add automated link/metadata check script | Current audit used manual PowerShell checks. |
 
 ## Intentionally Not Fixed in This Pass

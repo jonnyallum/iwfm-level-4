@@ -60,6 +60,12 @@ This is the navigation layer for the IWFM Level 4 Equivalent FM Academy. Use it 
 - [30-day study plan](22-study-plans/30-day-study-plan.md)
 - [Progress tracker](22-study-plans/progress-tracker.md)
 
+## Product Integration
+
+- [Product schemas (quiz, assessment, progress, AI tutor)](23-product-schemas/README.md)
+- [App integration plan](APP_INTEGRATION_PLAN.md)
+- [How to use this in FM Control Hub](HOW_TO_USE_IN_FM_CONTROL_HUB.md)
+
 ## Practice Banks
 
 - [Longleat interview question bank](19-interview-prep/longleat-interview-question-bank.md)

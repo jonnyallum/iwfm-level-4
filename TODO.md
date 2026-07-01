@@ -109,6 +109,21 @@ This list is the production tracker. When a task is completed, mark it `[x]`, up
 - [x] Define minimum viable integration for v0.2.0.
 - [x] Set next target version to 0.2.0 in ROADMAP.md.
 
+## Wave 8: Mobile-First Bank Splits
+
+- [x] Split the interview question bank into ten themed sets.
+- [x] Split the operational scenario bank into five themed sets.
+- [ ] Split the boardroom simulation into phone-sized chunks.
+
+## Wave 9: Product Schemas
+
+- [x] Formalise the Module schema as JSON Schema.
+- [x] Formalise the AssessmentItem schema (workbook, quiz, scenario, interview, flashcard, exam).
+- [x] Formalise the LearnerAttempt schema (written and spoken).
+- [x] Formalise the AiTutorFeedback schema.
+- [x] Formalise the LearnerProgress schema.
+- [x] Add worked, validating examples for each schema.
+
 ## Task Completion Rule
 
 Every completed task must be marked off here and pushed with the completed work. No silent progress. No ghost tasks. No pretend completion.

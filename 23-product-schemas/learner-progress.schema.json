@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://iwfm-level-4/schemas/learner-progress.schema.json",
+  "title": "LearnerProgress",
+  "description": "A learner's progress on one module, plus derived readiness signals. Tracks demonstrated understanding, not page views. Mirrors the fields in 22-study-plans/progress-tracker.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["learner_id", "module_id", "lesson_status"],
+  "properties": {
+    "learner_id": { "type": "string" },
+    "module_id": { "type": "string" },
+    "lesson_status": {
+      "type": "string",
+      "enum": ["not-started", "reading", "practised", "confident"],
+      "description": "Self- or system-assessed status for the module."
+    },
+    "completion_percentage": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "confidence_rating": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "1 shaky to 5 could-teach-it."
+    },
+    "workbook_band": {
+      "type": "string",
+      "enum": ["Distinction", "Pass", "Borderline", "Not yet"]
+    },
+    "quiz_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "scenario_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "interview_readiness_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Derived from spoken-rubric results across interview practice."
+    },
+    "weak_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Theme tags the learner repeatedly scores low on; drives revision routing."
+    },
+    "strong_tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "next_recommended_lesson": {
+      "type": "string",
+      "description": "Path or id of the next lesson to open."
+    },
+    "revision_due_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When spaced revision of this module is next due."
+    },
+    "last_opened_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "readiness_flag": {
+      "type": "boolean",
+      "description": "True when the readiness checklist in the progress tracker is fully met for this module."
+    }
+  }
+}

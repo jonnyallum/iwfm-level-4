@@ -2,6 +2,20 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-07-01 (product schemas)
+
+### Added
+
+- Added `23-product-schemas/` with formal JSON Schema (draft 2020-12) files for the FM Control Hub learning layer: `module.schema.json`, `assessment-item.schema.json`, `learner-attempt.schema.json`, `ai-tutor-feedback.schema.json` and `learner-progress.schema.json`.
+- Added `23-product-schemas/README.md` (entity map, academy mapping, AI tutor contract) and `23-product-schemas/examples.md` with six worked instances that validate against their schemas.
+
+### Changed
+
+- The schemas formalise the objects previously sketched in prose in APP_INTEGRATION_PLAN.md and the fields in the progress tracker, encoding the marking-guide bands, spoken-rubric dimensions and automatic caps as schema.
+- Updated MASTER_INDEX.md with a Product Integration section and README.md repository map with `23-product-schemas/`.
+- Updated ROADMAP.md to mark the product-layer schemas complete.
+- Bumped VERSION to 0.8.0.
+
 ## 2026-07-01 (scenario bank split)
 
 ### Added
