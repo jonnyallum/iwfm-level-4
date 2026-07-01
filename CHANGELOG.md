@@ -2,6 +2,19 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-07-01 (mobile-first bank split)
+
+### Added
+
+- Added `19-interview-prep/question-bank/` with ten themed question sets (ten questions each) split out of the interview bank for phone-first study: health-safety-risk, fire-safety, water-hygiene, asbestos-building-fabric, electrical-critical-systems, work-equipment-lifting-height, contractor-management, asset-management-budget, visitor-attraction-longleat and leadership-board-communication.
+
+### Changed
+
+- Converted `19-interview-prep/longleat-interview-question-bank.md` into a phone-first themed index that links to the ten sets, preserving all inbound links; content is unchanged and now easier to study one theme per session.
+- Refreshed `RELEASE_NOTES.md` to version 0.6.0 with a cumulative summary and current known limitations (previously frozen at 0.1.0).
+- Updated ROADMAP.md and FIX_LIST.md to record the interview bank split and the remaining scenario-bank and boardroom-simulation splits.
+- Bumped VERSION to 0.6.0.
+
 ## 2026-06-30 (interview completion and study aids)
 
 ### Added

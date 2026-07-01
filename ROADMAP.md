@@ -85,4 +85,4 @@ Complete:
 
 Remaining:
 
-- Split the long interview and scenario banks into phone-sized chunks.
+- Split the scenario bank and boardroom simulation into phone-sized chunks (the interview bank is done — ten themed sets under `19-interview-prep/question-bank/`).

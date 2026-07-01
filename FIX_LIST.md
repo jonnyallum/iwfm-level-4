@@ -33,11 +33,16 @@ ai_metadata:
 - Completed the interview layer with boardroom role-play prompts and a spoken-answer rubric.
 - Added the mobile study aids: flashcard bank, 30-day study plan and progress tracker.
 
+## Fixed in 0.6.0
+
+- Split the 100-question interview bank into ten phone-sized themed sets and converted the main file into an index.
+- Refreshed RELEASE_NOTES.md (was stale at 0.1.0) to 0.6.0.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
-| Medium | Split long practice banks into mobile-first chunks | Current bank files are comprehensive but long for phone reading. |
+| Medium | Split the scenario bank and boardroom simulation into mobile-first chunks | The interview bank is split; these two long files remain. |
 | Low | Build the product layer schemas (quiz, assessment, progress) | Progress fields are sketched in the tracker; full schemas remain for FM Control Hub integration. |
 | Low | Add automated link/metadata check script | Current audit used manual PowerShell checks. |
 
