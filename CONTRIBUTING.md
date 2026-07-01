@@ -28,6 +28,7 @@ Before a module is complete, confirm:
 - [ ] Links to Compliance Bible are included where relevant.
 - [ ] `TODO.md` is updated if a task is completed.
 - [ ] `CHANGELOG.md` is updated.
+- [ ] `python3 tools/check_repo.py` passes (links, metadata, module structure).
 
 ## Quality Test
 

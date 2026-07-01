@@ -46,13 +46,17 @@ ai_metadata:
 
 - Built the product-layer JSON Schemas (Module, AssessmentItem, LearnerAttempt, AiTutorFeedback, LearnerProgress) with validating examples under `23-product-schemas/`.
 
+## Fixed in 0.9.0
+
+- Added `tools/check_repo.py` for automated link, metadata and module-structure checks.
+- Added `ai_metadata` to RELEASE_NOTES.md and brought it current.
+
 ## Remaining Fixes
 
 | Priority | Item | Reason |
 |---|---|---|
-| Medium | Split the boardroom simulation into mobile-first chunks | The interview and scenario banks are split; the boardroom simulation is the last long file. |
+| Low | Split the boardroom simulation into mobile-first chunks | Intentionally deferred: it reads as a cohesive module, not a repetitive bank. |
 | Low | Implement the product schemas in FM Control Hub | Schemas and examples exist in-repo; in-app import/storage/serving is application work. |
-| Low | Add automated link/metadata check script | Current audit used manual PowerShell checks. |
 
 ## Intentionally Not Fixed in This Pass
 

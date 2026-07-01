@@ -2,6 +2,20 @@
 
 All notable changes to this repository will be recorded here.
 
+## 2026-07-01 (repo quality tooling)
+
+### Added
+
+- Added `tools/check_repo.py`, an automated quality checker that verifies internal Markdown/JSON links resolve, content files carry an `ai_metadata` block, and course module files contain the required section headings. Exits non-zero for use in pre-commit, CI or SessionStart hooks.
+- Added `tools/README.md` documenting the checker and how to extend it.
+
+### Changed
+
+- Added an `ai_metadata` block to `RELEASE_NOTES.md` and brought it current to version 0.9.0 (it had drifted).
+- Referenced the checker in CONTRIBUTING.md and COMMIT_GUIDE.md.
+- Updated FIX_LIST.md (the automated check script item is now done).
+- Bumped VERSION to 0.9.0.
+
 ## 2026-07-01 (product schemas)
 
 ### Added

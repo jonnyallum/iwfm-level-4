@@ -117,8 +117,11 @@ iwfm-level-4/
 ├── 20-scenario-bank/
 ├── 21-flashcards/
 ├── 22-study-plans/
-└── 23-product-schemas/
+├── 23-product-schemas/
+└── tools/
 ```
+
+Run `python3 tools/check_repo.py` before committing to verify links, metadata and module structure.
 
 Folders should only be created when they contain completed production material.
 

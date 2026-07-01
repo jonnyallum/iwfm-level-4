@@ -26,10 +26,11 @@ For every task:
 
 1. Write the completed production content.
 2. Check it against `CONTRIBUTING.md`.
-3. Mark the task `[x]` in `TODO.md`.
-4. Add a dated entry in `CHANGELOG.md`.
-5. Commit the completed content and tracker updates.
-6. Push immediately.
+3. Run `python3 tools/check_repo.py` and fix any failures (links, metadata, module structure).
+4. Mark the task `[x]` in `TODO.md`.
+5. Add a dated entry in `CHANGELOG.md`.
+6. Commit the completed content and tracker updates.
+7. Push immediately.
 
 ## No Placeholder Rule
 
